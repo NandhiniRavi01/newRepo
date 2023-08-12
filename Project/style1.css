@@ -1,0 +1,97 @@
+.topnav {
+font-family:"Arial";
+  background-color: white;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+
+  float: left;/*position of text*/
+  display: block;
+  color: black; /*top text color*/
+  text-align: left;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topright {
+  position: absolute;
+  padding: 14px 16px;
+  top: 8px;
+  right: 70px;
+  font-size: 18px;
+}
+.button {
+  background-color: blue;
+  border: none;
+  color: white;
+  padding: 4px;
+  
+  
+  
+  font-size: 16px;
+  
+  border-radius: 12px;
+}
+
+.split {
+  height: 100%;
+  width: 50%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+.left {
+  font-family:"Arial";
+  color:white;
+  font-size:30px;
+  line-height:65%;
+   border:none;
+  padding-top: 25px;
+  
+}
+.right {
+font-family:"Arial";
+top: 65px;
+ height:500px;
+left:700px;
+  width:400px;
+  background-color: white;
+  padding:30px;
+  margin:20px;
+  border-radius: 8px;
+
+}
+.image{
+font-family:"Arial";
+margin-left:100px;
+}
+
+  .button1 {
+  width:45%;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 14px 2px;
+  cursor: pointer;
+}
+
+.button2 {
+border: 2px solid red;
+color:red;} /* Green */
+.button3 {
+color:green;
+border: 2px solid green;
+
+
+
+right:3px;
+} 
+ 
